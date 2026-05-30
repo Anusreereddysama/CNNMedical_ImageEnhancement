@@ -1,0 +1,7 @@
+streamlit
+tensorflow
+numpy
+matplotlib
+scikit-image
+pillow
+opencv-python-headless
